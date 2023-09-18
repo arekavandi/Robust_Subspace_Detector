@@ -1,4 +1,4 @@
-# Robust_Subspace_Detector
+# Robust subspace detectors based on $\alpha$-divergence with application to detection in imaging
 ## DEMO
 
 + Run files "Main.m" for synthetic experiments.
@@ -14,3 +14,17 @@
 # Robust_Subspace_Detector
 
 This code was developed by Aref Miri Rekavandi for the paper: Rekavandi, A. M., Seghouane, A. K., & Evans, R. J. (2021). Robust subspace detectors based on α-divergence with application to detection in imaging. IEEE Transactions on Image Processing, 30, 5017-5031. If you use this code in your study, kindly cite  the aforementioned paper.
+# Citations
+If you found this page helpful, please cite the following survey papers:
+
+```
+@article{rekavandi2021robust,
+  title={Robust subspace detectors based on $\alpha$-divergence with application to detection in imaging},
+  author={Rekavandi, Aref Miri and Seghouane, Abd-Krim and Evans, Robin J},
+  journal={IEEE Transactions on Image Processing},
+  volume={30},
+  pages={5017--5031},
+  year={2021},
+  publisher={IEEE}
+}
+```
