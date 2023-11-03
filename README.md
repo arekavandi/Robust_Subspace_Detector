@@ -1,7 +1,7 @@
 # Robust subspace detectors based on $\alpha$-divergence with application to detection in imaging
 ## DEMO
 
-+ Run files "Main.m" for synthetic experiments.
++ Run the file "Main.m" for synthetic experiments.
 
 ## Results
 ![image](https://github.com/arekavandi/Robust_Subspace_Detector/assets/101369948/5824fd8d-4dc5-4bcd-b2ad-cc3f82543975)
